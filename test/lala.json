@@ -1,0 +1,40 @@
+{
+  "id": 439703220,
+  "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDM5NzAzMjIw",
+  "user": {
+    "login": "ndesh26",
+    "id": 12979163,
+    "node_id": "MDQ6VXNlcjEyOTc5MTYz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/12979163?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ndesh26",
+    "html_url": "https://github.com/ndesh26",
+    "followers_url": "https://api.github.com/users/ndesh26/followers",
+    "following_url": "https://api.github.com/users/ndesh26/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ndesh26/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ndesh26/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ndesh26/subscriptions",
+    "organizations_url": "https://api.github.com/users/ndesh26/orgs",
+    "repos_url": "https://api.github.com/users/ndesh26/repos",
+    "events_url": "https://api.github.com/users/ndesh26/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ndesh26/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "body": "The changes looks good but I think it will be better to get rid of extern keyword once and for all. ",
+  "commit_id": "82cc287e11708a1c6b8f8bd25b4aeb8864536024",
+  "submitted_at": "2020-06-30T10:35:36Z",
+  "state": "commented",
+  "html_url": "https://github.com/ndesh26/evdev-rs/pull/40#pullrequestreview-439703220",
+  "pull_request_url": "https://api.github.com/repos/ndesh26/evdev-rs/pulls/40",
+  "author_association": "OWNER",
+  "_links": {
+    "html": {
+      "href": "https://github.com/ndesh26/evdev-rs/pull/40#pullrequestreview-439703220"
+    },
+    "pull_request": {
+      "href": "https://api.github.com/repos/ndesh26/evdev-rs/pulls/40"
+    }
+  },
+  "event": "reviewed"
+}
